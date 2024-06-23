@@ -1,0 +1,13 @@
+{
+    "name": "Dummy",
+    "alias": "dummy",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Dummy\\Providers\\DummyServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
